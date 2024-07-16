@@ -1,4 +1,4 @@
-#🌟Projeto LiterAlura🌟
+#Projeto LiterAlura🌟
 
 ## Descrição
 Este projeto é uma aplicação de livraria que permite a busca e gerenciamento de livros e autores utilizando diversas funcionalidades avançadas. O projeto foi desenvolvido em Java utilizando o framework Spring Boot e integra várias tecnologias e bibliotecas para oferecer uma experiência robusta e eficiente.
